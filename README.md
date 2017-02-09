@@ -4,7 +4,7 @@
 
 This repo holds examples and source code for the Getting Started with Kubernetes book.
 
-Available here: https://www.packtpub.com/virtualization-and-cloud/getting-started-kubernetes
+Available here: https://www.packtpub.com/virtualization-and-cloud/getting-started-kubernetes-second-edition
 
 Repo contains two major levels:
 
