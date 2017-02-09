@@ -1,4 +1,4 @@
-[![Getting Started with Kubernetes - Second Edition](https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06302_MockupCover.jpg "Book Cover")](https://www.packtpub.com/virtualization-and-cloud/getting-started-kubernetes-second-edition)
+[![Getting Started with Kubernetes - Second Edition](https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06302_MockupCover.jpg "Getting Started with Kubernetes - Second Edition")](https://www.packtpub.com/virtualization-and-cloud/getting-started-kubernetes-second-edition)
 
 # Getting Started with Kubernetes - Second Edition
 
