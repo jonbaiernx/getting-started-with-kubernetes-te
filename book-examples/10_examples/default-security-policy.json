@@ -13,7 +13,7 @@
           "rule": "RunAsAny"
       },
       "runAsUser": {
-          "rule": "MustRunAsNonRoot"
+          "rule": "RunAsAny"
       },
       "fsGroup": {
           "rule": "RunAsAny"
