@@ -5,7 +5,7 @@ metadata:
   labels:
     name: node-js-none
 spec:
-  clusterip: None
+  clusterIP: None
   ports:
   - port: 80
   selector:
